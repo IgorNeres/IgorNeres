@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🎓 Computer Science Student<br><br>💻 Future Software Engineer and Project Manager<br><br>🚀 Interested in Software Development and Team Organization<br><br>🌍 I'm based in Brazil</p>
+<p align="left">🎓 Computer Science Student<br><br>💻 Future Software Engineer and Project Manager<br><br>🚀 Interested in Software Development, Team Organization and UX<br><br>🌍 I'm based in Brazil</p>
 
 ###
 
